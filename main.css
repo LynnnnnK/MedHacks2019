@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(126, 206, 233);
+    background-color: rgb(126, 233, 219);
   }
 .tlb {
     font-family: sans-serif;
-    background-color: rgb(224, 174, 240)
+    background-color: rgb(229, 189, 243)
 }
 .pic {
     display: block;
@@ -19,4 +19,5 @@ body {
 .intro{
   margin-left: 100px;
   margin-right: 100px;
+  color: rgb(199, 47, 47)
 }
