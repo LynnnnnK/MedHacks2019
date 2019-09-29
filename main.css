@@ -19,6 +19,13 @@ body {
   text-align: center;
   width: 100%;
 }
+.pic2 {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: 100%;
+}
 .def{
   margin-left: 100px;
   margin-right: 100px;
@@ -64,6 +71,10 @@ body {
   font-size: 20px;
 }
 .ate1{margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
+}
+.video{margin-left: 100px;
   margin-right: 100px;
   font-size: 20px;
 }
