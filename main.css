@@ -1,8 +1,9 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(126, 206, 233);
   }
 .tlb {
-    font-family: sans-serif
+    font-family: sans-serif;
+    background-color: rgb(224, 174, 240)
 }
 .pic {
     display: block;
