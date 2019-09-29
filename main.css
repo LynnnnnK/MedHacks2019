@@ -3,7 +3,7 @@ body {
   }
 .tlb {
     font-family: sans-serif;
-    background-color: rgb(229, 189, 243)
+    background-color: cornsilk;
 }
 .pic {
     display: block;
@@ -20,4 +20,12 @@ body {
   margin-left: 100px;
   margin-right: 100px;
   color: rgb(0, 0, 0)
+}
+.insp{margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
+}
+.insp1{margin-left: 100px;
+  margin-right: 100px;
+  font-size: 20px;
 }
